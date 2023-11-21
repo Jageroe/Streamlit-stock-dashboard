@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+
+# ignore the .env file, since it containts my API key
+.env
+
+# ignore venv folder
+venv-stock-data-dashboard/
